@@ -37,7 +37,6 @@
 
  ## OUTPUT
  ![image](https://github.com/23000966/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/153983364/ce14c2ba-2fb7-477d-9b39-21ad87323fbf)
-
  
  
  ## RESULT
